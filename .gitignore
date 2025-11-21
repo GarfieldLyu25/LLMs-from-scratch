@@ -21,6 +21,7 @@ ch05/01_main-chapter-code/loss-plot.pdf
 ch05/01_main-chapter-code/temperature-plot.pdf
 ch05/01_main-chapter-code/the-verdict.txt
 
+
 ch06/01_main-chapter-code/loss-plot.pdf
 ch06/01_main-chapter-code/accuracy-plot.pdf
 
@@ -106,6 +107,7 @@ appendix-E/01_main-chapter-code/validation.csv
 
 ch02/01_main-chapter-code/number-data.txt
 ch02/05_bpe-from-scratch/the-verdict.txt
+ch02/01_main-chapter-code/the-verdict*.txt
 
 ch05/03_bonus_pretraining_on_gutenberg/gutenberg
 ch05/03_bonus_pretraining_on_gutenberg/gutenberg_preprocessed
