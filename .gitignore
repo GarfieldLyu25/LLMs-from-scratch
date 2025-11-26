@@ -334,3 +334,4 @@ cython_debug/
 *.egg-info
 
 
+/ch07/01_main-chapter-code/gpt2-small124M-sft.pth
